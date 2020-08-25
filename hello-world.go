@@ -25,7 +25,7 @@ func main() {
     arr[1]=1
 
     for i:=0;i<len(arr);i++{
-      fmt.Println("val ",arr[i])
+      fmt.Println("val sou ",arr[i])
       }
 
     b:= [5]int {1,2,3,4,5}
